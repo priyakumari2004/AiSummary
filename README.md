@@ -6,7 +6,7 @@ AI-powered meeting transcription and summarization app that transforms your vide
 
 This app lets users upload meeting recordings in video, audio, or text format and generates accurate transcriptions and structured summaries. It leverages OpenAI's Whisper API for speech-to-text transcription and GPT-4o for summarization.
 
-##Tech Stack
+##  Tech Stack
 
 Frontend: React 18 with TypeScript for robust and scalable UI development
 Styling: Tailwind CSS for fast, utility-first responsive design
@@ -30,6 +30,11 @@ Configuration: dotenv for secure management of API keys and environment variable
 7. Backend generates summary using OpenAI GPT-4o API.
 8. Frontend displays transcription and summary to user.
 9. User can download summary as a `.txt` file
+
+## Dashboard
+(images/Screenshot (41).png)
+(images/Screenshot (42).png)
+(images/Screenshot (42).png)
 
 ## Setup and Installation
 
