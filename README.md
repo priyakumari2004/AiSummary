@@ -32,9 +32,9 @@ Configuration: dotenv for secure management of API keys and environment variable
 9. User can download summary as a `.txt` file
 
 ## Dashboard
-(images/Screenshot (41).png)
-(images/Screenshot (42).png)
-(images/Screenshot (42).png)
+![Homepage](images/Screenshot (41).png)
+![Homepage](images/Screenshot (42).png)
+![Summary page](images/Screenshot (42).png)
 
 ## Setup and Installation
 
