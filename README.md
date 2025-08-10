@@ -8,14 +8,14 @@ This app lets users upload meeting recordings in video, audio, or text format an
 
 ##  Tech Stack
 
-Frontend: React 18 with TypeScript for robust and scalable UI development
-Styling: Tailwind CSS for fast, utility-first responsive design
-Build tool: Vite for lightning-fast development and bundling
-Backend: Python Flask for lightweight REST API development
-Video processing: moviepy for server-side audio extraction from videos
-Speech-to-text: OpenAI Whisper API integration for accurate transcription
-Summarization: OpenAI GPT-4o API for generating meeting summaries
-Configuration: dotenv for secure management of API keys and environment variables
+1. Frontend: React 18 with TypeScript for robust and scalable UI development
+2. Styling: Tailwind CSS for fast, utility-first responsive design
+3. Build tool: Vite for lightning-fast development and bundling
+4. Video processing: moviepy for server-side audio extraction from videos
+5. Speech-to-text: OpenAI Whisper API integration for accurate transcription
+6. Summarization: OpenAI GPT-4o API for generating meeting summaries
+7. Configuration: dotenv for secure management of API keys and environment variables
+8. Backend: Python Flask for lightweight REST API development
 
 ## Architecture and Flow
 
@@ -32,9 +32,9 @@ Configuration: dotenv for secure management of API keys and environment variable
 9. User can download summary as a `.txt` file
 
 ## Dashboard
-![Homepage](images/Screenshot (41).png)
-![Homepage](images/Screenshot (42).png)
-![Summary page](images/Screenshot (42).png)
+![Homepage](images/Screenshot(41).png)
+![Homepage](images/Screenshot(42).png)
+![Summary page](images/Screenshot(42).png)
 
 ## Setup and Installation
 
