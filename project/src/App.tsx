@@ -154,7 +154,7 @@ function App() {
                 <FileVideo className="w-5 h-5 text-white" />
               </div>
               <div>
-                <h1 className="text-xl font-bold text-gray-900">Meeting Summary Generator</h1>
+                <h1 className="text-xl font-bold text-gray-900">SummArize</h1>
                 <p className="text-sm text-gray-600">AI-powered meeting transcription and summarization</p>
               </div>
             </div>
